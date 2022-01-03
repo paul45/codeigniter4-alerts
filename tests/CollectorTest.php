@@ -3,6 +3,7 @@
 use Tatter\Alerts\Collectors\Alerts;
 use Tests\Support\TestCase;
 
+
 /**
  * @internal
  */
